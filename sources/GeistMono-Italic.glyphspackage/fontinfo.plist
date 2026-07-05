@@ -43,7 +43,8 @@ wght = {
 100 = 100;
 200 = 200;
 300 = 300;
-400 = 400;
+350 = 400;
+400 = 450;
 500 = 500;
 600 = 600;
 700 = 700;
@@ -1858,7 +1859,7 @@ weightClass = 300;
 },
 {
 axesValues = (
-400
+450
 );
 customParameters = (
 {
@@ -1872,7 +1873,8 @@ Location = 400;
 }
 );
 instanceInterpolations = {
-"574EE4B9-5C1A-4E7E-9985-C08FACB65BD8" = 1;
+"574EE4B9-5C1A-4E7E-9985-C08FACB65BD8" = 0.9;
+"58B1DC7A-69F8-4375-AD2E-AC5103CCF536" = 0.1;
 };
 isItalic = 1;
 name = Italic;

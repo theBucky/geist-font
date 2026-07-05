@@ -26,10 +26,11 @@ cleanUp: true
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.
 
-# buildVariable: true
-# buildStatic: true
-# buildTTF: true
-# buildOTF: true
+buildVariable: false
+buildStatic: true
+buildTTF: true
+buildOTF: false
+buildWebfont: false
 # buildSmallCap: false
 
 # The next flags control autohinting.
