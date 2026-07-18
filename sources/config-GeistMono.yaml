@@ -34,8 +34,8 @@ buildWebfont: false
 # buildSmallCap: false
 
 # The next flags control autohinting.
-# autohintTTF: true
-autohintOTF: true
+autohintTTF: false
+autohintOTF: false
 # ttfaUseScript: false  # Set this to true if your font is not Latin
 
 # The "fix" operation can optionally fix some problems which
